@@ -21,7 +21,7 @@ print(mylist)
 print(mytuple)
 print(mydict)
 
-# re-declaring a variable works
+# re-declaring a variable works v
 
 # to access a member of a sequence type, use []
 
