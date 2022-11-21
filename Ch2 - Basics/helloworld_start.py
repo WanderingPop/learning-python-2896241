@@ -1,6 +1,7 @@
-#
+# 
 # Example file for HelloWorld
 # LinkedIn Learning Python course by Joe Marini
+# 20221120 created the function below to demonstrate print functions
 #
 
 def main():
